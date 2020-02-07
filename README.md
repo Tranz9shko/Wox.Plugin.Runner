@@ -1,6 +1,3 @@
-# NOTICE: I am no longer maintaining this project. Feel free to fork and republish.
-
-
 # Wox.Plugin.Runner
 
 A plugin that allows you to create simple command shortcuts in [Wox](http://getwox.com).
